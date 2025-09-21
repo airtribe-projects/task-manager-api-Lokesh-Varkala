@@ -143,9 +143,3 @@ Lokesh Varkala
 
 
 ---
-
-You can **save this as `README.md`** in the root of your project.  
-
-After that, you just need to **push everything to GitHub** and submit your PR.  
-
-If you want, I can give **final Git commands for Mac** to commit, push, and submit in one go. Do you want me to do that?
